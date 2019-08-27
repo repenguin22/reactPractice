@@ -1,0 +1,1 @@
+export const ACTION_NM_SONG_SELECTED = 'SONG_SELECTED';
