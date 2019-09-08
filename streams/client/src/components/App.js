@@ -10,7 +10,6 @@ import StreamShow from './streams/StreamShow';
 const App = () => {
     return (
         <div className="ui container">
-            <Header />
             <BrowserRouter>
                 <div>
                     <Header />
