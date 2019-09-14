@@ -1,0 +1,30 @@
+{
+  "streams": [
+    {
+      "title": "s",
+      "description": "ss",
+      "id": 1
+    },
+    {
+      "title": "aaaaaaaa",
+      "description": "dddddddd",
+      "id": 2
+    },
+    {
+      "title": "ぱっち",
+      "description": "変更しました",
+      "id": 3
+    },
+    {
+      "title": "アニメ",
+      "description": "ああああああああああ",
+      "userId": "105092947289781084223",
+      "id": 4
+    },
+    {
+      "title": "りでゅーす",
+      "description": "リサイクル",
+      "id": 5
+    }
+  ]
+}
